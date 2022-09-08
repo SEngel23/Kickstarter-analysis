@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Louise is interested in starting a kickstarter campaign to fund a musical play in Great Britain. She estimates her play will cost $12K.
 Based on my analysis of prior campaigns with a similar monetary goal, Louise is unlikely to reach her goal of $12k and would need to reduce her goal in order to have a successful campaign. Her best opportunity would be to run the campaign in May and if she decides to run a campaign for the Great Britain market, she should reduce her goal closer to £2,000. The good news is, Theaters had the highest success rate of hitting their goals out of all categories 
-Reference: ![Parent_Category_Outcomes_Chart.png](C:\Users\seana\Desktop\Analyst Projects\Classwork\Crowdfunding Analysis\Parent_Category_Outcomes_Chart.png)
+Reference: ![Parent_Category_Outcomes_Chart.png](C:\Users\seana\Desktop\Analyst_Projects\Classwork\Crowdfunding_Analysis\Parent_Category_Outcomes Chart.png)
 # Statistical findings for theater plays in the US are as follow
 * The Mean of successful goals were $5,049, whereas failed were $10,554
 * The Median of successful goals were $3,000, whereas failed were $5,000
