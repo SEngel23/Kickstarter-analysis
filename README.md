@@ -1,6 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Louise is interested in starting a kickstarter campaign to fund a musical play in Great Britain. She estimates her play will cost $12K.
-Based on my analysis of prior campaigns with a similar monetary goal, Louise is unlikely to reach her goal of $12k and would need to reduce her goal in order to have a successful campaign. Her best opportunity would be to run the campaign in May and if she decides to run a campaign for the Great Britain market, she should reduce her goal closer to £2,000. The good news is, Theaters had the highest success rate of hitting their goals out of all categories.
+Based on my analysis of prior campaigns with a similar monetary goal, Louise is unlikely to reach her goal of $12k and would need to reduce her goal in order to have a successful campaign. Her best opportunity would be to run the campaign in May and if she decides to run a campaign for the Great Britain market, she should reduce her goal closer to £2,000. The good news is, Theaters had the highest success rate of hitting their goals out of all categories 
+Reference: ![Parent_Category_Outcomes_Chart.png](C:\Users\seana\Desktop\Analyst Projects\Classwork\Crowdfunding Analysis\Parent_Category_Outcomes_Chart.png)
 # Statistical findings for theater plays in the US are as follow
 * The Mean of successful goals were $5,049, whereas failed were $10,554
 * The Median of successful goals were $3,000, whereas failed were $5,000
@@ -15,4 +16,4 @@ The findings suggest that the data is skewed to the right due to the mean being 
 # Outcomes Based on Launch Date
 After analyzing the data for most successful times to launch a campaign, I found that the best time to launch a kickstarter for theater plays in all countries is May and June. The least successful time to launch a campaign is in December.
 # Conclusion
-* After close analysis of the data, the number one reason why kickstarter campaigns have failed in the Theater category is due to unreasonably high goals and poor timing of launching a campaign. For Louise to have the best luck in launching a kickstarter campaign, I would suggest reducing her costs closer to the $5,000 for the US market and £2,000 for the Great Britian market. She should run her campaign in the month of May and consider listing it as the subcategory "plays".
+* After close analysis of the data, the number one reason why kickstarter campaigns have failed in the Theater category is due to unreasonably high goals and poor timing of launching a campaign. For Louise to have the best luck in launching a kickstarter campaign, I would suggest reducing her costs closer to the $5,000 for the US market and £2,000 for the Great Britian market. For the best results, I would recommend to run her campaign in the month of May and consider listing it as the subcategory "plays".
