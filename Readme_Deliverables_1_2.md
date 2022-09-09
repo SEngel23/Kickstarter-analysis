@@ -1,7 +1,7 @@
 # Kickstarter Campaign Analysis of Outcomes 
 ## Project Overview
 The purpose of this kickstarter campaign analysis was to look at the relationship between campaign outcomes, launch date, and fund goals to determine the best probability
-of a successful campaign. Here is a link to the kickstarter data set including the spreadsheets of the data discussed in this analysis. [Kickstarter_Challenge.zip](Kickstarter_Challenge.zip)
+of a successful campaign. Here is a link to the kickstarter data set including the spreadsheets of the data discussed in this analysis. [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 ## Analysis and Challenges
 ### Theater Outcomes by Launch Date
 When looking at the kickstarter data and trying to determine the best outcome of a campaign, I first wanted to know what time during the year was most successful for
